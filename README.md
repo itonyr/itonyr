@@ -23,7 +23,6 @@ I'm always interested in connecting with others in the security and observabilit
 -   Open-source security tools
 -   Novel approaches to cloud-native security
 -   Securing telemetry data pipelines
--   New pentesting tools and techniques 
 
 ---
 
